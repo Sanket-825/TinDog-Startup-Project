@@ -3,7 +3,7 @@
 # Title Section 
 ![Screenshot (69)](https://github.com/user-attachments/assets/794c63a3-faf0-42be-99d1-05aa653d5e5b)
 # Features Section
-![Screenshot (70)](https://github.com/user-attachments/assets/f5ca1b54-41f8-4409-a396-6243e0c8b725)
+![Screenshot (78)](https://github.com/user-attachments/assets/9c16d3ae-c4d8-4709-b3c6-5cdf1075841c)
 # Testimonial Section
 ![Screenshot (71)](https://github.com/user-attachments/assets/ec9d07e0-dd72-4f9b-8145-520c9fb0a0bb)
 # Pricing Section
